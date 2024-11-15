@@ -1,0 +1,22 @@
+#heading{
+color: blue;
+}
+
+button{
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    background-color: bisque;
+    color: blue;
+    cursor: pointer;
+    
+}
+
+.remove{
+background-color: red;
+color: white;
+}
+
+.done{
+    background-color: green;
+    color: white;
+}
